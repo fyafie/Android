@@ -28,7 +28,6 @@ import javax.inject.Inject
         init {
             DaggerAppComponent.create().injectDayLima(this)
         }
-
         fun getAllJob(){
             compositeDisposable.add(
                 repository.getAllJob()
