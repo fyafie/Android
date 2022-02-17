@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuSatu"
+        android:title="@string/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:id="@+id/menuDua"
+        android:icon="@drawable/ic_baseline_work_24"
+        android:title="@string/profile"/>
+    <item android:id="@+id/menuTiga"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/profile"/>
+    <item android:id="@+id/menuMovie"
+        android:icon="@drawable/ic_baseline_movie_24"
+        android:title="Movie"/>
+</menu>

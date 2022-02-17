@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.153" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/drawable/ic_logoo.xml" value="0.153" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_day_lima.xml" value="0.1" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_detail_movie.xml" value="0.264" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_halaman_dua.xml" value="0.15820489573889393" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_home.xml" value="0.15820489573889393" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_login.xml" value="0.136" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_main.xml" value="0.15820489573889393" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_movie_detail.xml" value="0.11876699909338169" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/activity_splash_screen.xml" value="0.12526720820863618" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/fragment_home.xml" value="0.18426678067550234" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/fragment_home2.xml" value="0.22530996152201796" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/fragment_job.xml" value="0.18426678067550234" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/fragment_movie.xml" value="0.264" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/fragment_profile.xml" value="0.152" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/item.xml" value="0.22530996152201796" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/item_movie.xml" value="0.15820489573889393" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/layout/row.xml" value="0.22530996152201796" />
+        <entry key="..\:/DIA batch 2/last/ProjectDIA/app/src/main/res/menu/navigation_menu.xml" value="0.211306765523633" />
+        <entry key="..\:/Users/fauza/AndroidStudioProjects/ProjectDIA/app/src/main/res/drawable/ic_logoo.xml" value="0.13" />
+        <entry key="..\:/Users/fauza/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/activity_home.xml" value="0.14450619923044036" />
+        <entry key="..\:/Users/fauza/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/fauza/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/activity_splash_screen.xml" value="0.14450619923044036" />
+        <entry key="..\:/Users/fauza/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/fragment_home.xml" value="0.3611111111111111" />
+        <entry key="..\:/Users/fauza/AndroidStudioProjects/ProjectDIA/app/src/main/res/layout/fragment_job.xml" value="0.1" />
+        <entry key="..\:/Users/fauza/AndroidStudioProjects/ProjectDIA/app/src/main/res/menu/navigation_menu.xml" value="0.14450619923044036" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/ivMovie"
+        android:scaleType="centerCrop"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <TextView
+        android:text="MOVIE_TITLE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:id="@+id/tvTitle"
+        app:layout_constraintTop_toBottomOf="@id/ivMovie"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MOVIE_OVERVIEW"
+        android:id="@+id/tvOverview"
+        app:layout_constraintTop_toBottomOf="@id/tvTitle"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
